@@ -1,0 +1,60 @@
+h1 {
+  text-align: center;
+  font-style: oblique;
+  font-family: futura;
+}
+
+p {
+  text-align: center;
+  font-family: futura;
+}
+
+.zebraImg {
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.caro {
+  display: block;
+  margin: auto;
+}
+
+h3 {
+  text-align: center;
+  font-family: futura;
+}
+
+div.container {
+  text-align: center;
+  font-family: futura;
+}
+
+a:visited {
+  color: black;
+}
+
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+  font-family: futura;
+}
+
+body {
+  background-color: lightgrey;
+}
+
+.knap {
+  background-color: lightgrey;
+  border-radius: 2px;
+  color: black;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+.con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
